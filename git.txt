@@ -1,0 +1,57 @@
+version control systems: it is a distributed version control sys
+1. Git
+2. SubVersion
+
+
+\\192.168.11.13\public\software
+
+
+
+Advantages:
+1. small and fast
+2. distributed
+3. staging area
+4. Free and open
+5.powerful features
+
+
+Disadvantages:(centralised version control system--main   svn and )
+1.u always depend on server
+2. without server can't check the diff's and can't share the files with others
+3. High availability and backups are very imp
+
+
+
+ Distributed version control system........
+Advantages:
+1.every one has the complete history
+2. everythong is offline   ---except  push/pull
+3. No central authority    except by convention
+4. Changes can be shared with out a server
+
+
+
+create and initilize a repository
+1. madir /opt/project1
+2.cd /opt/project1
+
+
+
+
+git settings............
+1. git config --global user.name "Nareshkeerapatla"
+2.git config --global user.email "k8801409938@gmail.com"
+
+
+global settings
+
+1. git config --list
+2. git config --list --global
+3. 
+
+
+/d
+git bash....
+cd python/
+git init
+git 
