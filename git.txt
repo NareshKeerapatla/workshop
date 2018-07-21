@@ -7,7 +7,7 @@ version control systems: it is a distributed version control sys
 
 
 
-Advantages:
+Advantages:.....
 1. small and fast
 2. distributed
 3. staging area
